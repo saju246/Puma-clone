@@ -1,0 +1,58 @@
+body{
+    font-family: "FF DIN for Puma W01 Cond Bold";
+    border: 0;
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;
+    
+}
+.see-details{
+    color: white;
+}
+.puma-logo {
+
+    width: 34px;
+    height: 34px;
+    padding-left: 25px;
+    padding-top: 17px;
+    padding-right: 45px;
+   
+}
+
+.left-text{
+  
+    color: white;
+    font-weight: bold;
+    font-size: 19px;
+    padding-right: 23px;
+    font-family:FFDINforPuma, Inter, -apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+}
+
+.left-text:hover{
+        text-decoration: underline red 3px;
+        text-underline-offset: 10px;
+      
+}
+.search{
+    height: 21px;
+    width: 21px;
+    margin: 10px 10px;
+}
+
+.heart,.account,.cart{
+    height: 25px;
+    width: 25px;
+    margin: 10px 10px;
+}
+.header-bottom{
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header-two-bottom,.header-three-bottom{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
